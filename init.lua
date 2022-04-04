@@ -20,4 +20,4 @@ require "user.alpha"
 require "user.whichkey"
 require "user.autocommands"
 
-vim.cmd "runtime ./colors/NeoSolarized.vim"
+vim.cmd "runtime ./colors/dracula.vim"
