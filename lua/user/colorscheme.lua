@@ -4,7 +4,7 @@ try
   " let g:neosolorized_termtrans=1
   " runtime ../../colors/NeoSolarized.vim
   " colorscheme NeoSolarized
-  colorscheme onedark
+  colorscheme gruvbox
 catch /^Vim\%((\a\+)\)\=:E185/
   colorscheme default
   set background=dark
