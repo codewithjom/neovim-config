@@ -97,6 +97,9 @@ return packer.startup(function(use)
   -- Git
   use "lewis6991/gitsigns.nvim"
 
+  -- Coc (Conquer of Completion)
+  use {'neoclide/coc.nvim', branch = 'release'}
+
   -- Extra
   use "tpope/vim-fugitive"
   use "tpope/vim-rhubarb"
